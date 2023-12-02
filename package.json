@@ -1,9 +1,9 @@
 {
-  "name": "express-mongodb-vercel",
+  "name": "TechNet-backend",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
-  "author": "Mir Hussain",
+  "author": "Mahadeb Sen",
   "scripts": {
     "start": "node index.js",
     "dev": "nodemon index.js"
